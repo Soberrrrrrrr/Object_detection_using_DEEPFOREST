@@ -8,7 +8,7 @@ This project demonstrates object detection using the DeepForest library. DeepFor
 - Example scripts and notebooks
 - Easy setup and usage
 
-## Requirements
+## Requirements..
 
 - Ubuntu 24.04.2 LTS (dev container)
 - Python 3.8+
